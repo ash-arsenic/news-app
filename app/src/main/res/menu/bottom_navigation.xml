@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bo_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/bo_article"
+        android:enabled="true"
+        android:icon="@drawable/ic_article"
+        android:title="Article"/>
+    <item
+        android:id="@+id/bo_city"
+        android:enabled="true"
+        android:icon="@drawable/ic_city"
+        android:title="City"/>
+    <item
+        android:id="@+id/bo_live"
+        android:enabled="true"
+        android:icon="@drawable/ic_live"
+        android:title="Live"/>
+</menu>
